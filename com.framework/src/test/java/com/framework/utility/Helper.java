@@ -35,5 +35,4 @@ Date currentDate = new Date();
 return customeDate.format(currentDate);
 }
 	
-	
 }
