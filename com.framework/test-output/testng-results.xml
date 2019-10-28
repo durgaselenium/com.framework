@@ -20,12 +20,12 @@
       <![CDATA[Test Completed>>>>Reports Generated]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="39943" started-at="2019-10-28T11:20:04Z" finished-at="2019-10-28T11:20:44Z">
+  <suite name="Default suite" duration-ms="34669" started-at="2019-10-28T12:44:18Z" finished-at="2019-10-28T12:44:53Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="39943" started-at="2019-10-28T11:20:04Z" finished-at="2019-10-28T11:20:44Z">
+    <test name="Default test" duration-ms="34669" started-at="2019-10-28T12:44:18Z" finished-at="2019-10-28T12:44:53Z">
       <class name="com.framework.testcases.FaceBookTest">
-        <test-method status="PASS" signature="setUpSuit()[pri:0, instance:com.framework.testcases.FaceBookTest@604ed9f0]" name="setUpSuit" is-config="true" duration-ms="841" started-at="2019-10-28T11:20:03Z" finished-at="2019-10-28T11:20:04Z">
+        <test-method status="PASS" signature="setUpSuit()[pri:0, instance:com.framework.testcases.FaceBookTest@604ed9f0]" name="setUpSuit" is-config="true" duration-ms="859" started-at="2019-10-28T12:44:17Z" finished-at="2019-10-28T12:44:18Z">
           <reporter-output>
             <line>
               <![CDATA[Setting up Reports and Test is getting ready]]>
@@ -35,7 +35,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- setUpSuit -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.framework.testcases.FaceBookTest@604ed9f0]" name="setUp" is-config="true" duration-ms="27498" started-at="2019-10-28T11:20:04Z" finished-at="2019-10-28T11:20:32Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.framework.testcases.FaceBookTest@604ed9f0]" name="setUp" is-config="true" duration-ms="22045" started-at="2019-10-28T12:44:18Z" finished-at="2019-10-28T12:44:40Z">
           <reporter-output>
             <line>
               <![CDATA[Trying to start Browser and Getting Application ready]]>
@@ -45,7 +45,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.framework.testcases.FaceBookTest@604ed9f0]" name="tearDownMethod" is-config="true" duration-ms="4" started-at="2019-10-28T11:20:32Z" finished-at="2019-10-28T11:20:32Z">
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.framework.testcases.FaceBookTest@604ed9f0]" name="tearDownMethod" is-config="true" duration-ms="19" started-at="2019-10-28T12:44:40Z" finished-at="2019-10-28T12:44:40Z">
           <params>
             <param index="0">
               <value>
@@ -62,11 +62,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="testFacebook()[pri:0, instance:com.framework.testcases.FaceBookTest@604ed9f0]" name="testFacebook" duration-ms="11754" started-at="2019-10-28T11:20:32Z" finished-at="2019-10-28T11:20:43Z">
+        <test-method status="PASS" signature="testFacebook()[pri:0, instance:com.framework.testcases.FaceBookTest@604ed9f0]" name="testFacebook" duration-ms="11900" started-at="2019-10-28T12:44:40Z" finished-at="2019-10-28T12:44:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFacebook -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.framework.testcases.FaceBookTest@604ed9f0]" name="tearDown" is-config="true" duration-ms="659" started-at="2019-10-28T11:20:43Z" finished-at="2019-10-28T11:20:44Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.framework.testcases.FaceBookTest@604ed9f0]" name="tearDown" is-config="true" duration-ms="680" started-at="2019-10-28T12:44:52Z" finished-at="2019-10-28T12:44:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
